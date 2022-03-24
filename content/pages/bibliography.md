@@ -48,7 +48,7 @@ Cronon, William. _Uncommon Ground: Toward Reinventing Nature_. W. W. Norton & Co
 
 David, Bruno and Julian Thomas, eds. _Handbook of Landscape Archaeology_. Routledge, 2010. ISBN: 9781598746167. \[Preview with [Google Books](https://books.google.com/books?id=y7JJDAAAQBAJ&lpg=PP1&dq=Handbook%20of%20Landscape%20Archaeology&pg=PP1#v=onepage&q&f=false)\]
 
-Demos, T. J. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Contemporary Art and the Politics of Ecology: An Introduction.” (PDF)](https://creativeecologies.sites.ucsc.edu/wp-content/uploads/sites/196/2015/07/Demos-Intro-Third-Text.pdf) _Third Text_, 27:1 (2013): 1-9.
+Demos, T. J. [“Contemporary Art and the Politics of Ecology: An Introduction.” (PDF)](https://creativeecologies.sites.ucsc.edu/wp-content/uploads/sites/196/2015/07/Demos-Intro-Third-Text.pdf) _Third Text_, 27:1 (2013): 1-9.
 
 Dodge, William A. _Black Rock: A Zuni Cultural Landscape and the Meaning of Place_. University Press of Mississippi, 2007. ISBN: 9781578069934. \[Preview with [Google Books](https://books.google.com/books?id=EPyfJXhddTAC&lpg=PP1&dq=Black%20Rock%3A%20A%20Zuni%20Cultural%20Landscape%20and%20the%20Meaning%20of%20Place&pg=PP1#v=onepage&q&f=false)\]
 

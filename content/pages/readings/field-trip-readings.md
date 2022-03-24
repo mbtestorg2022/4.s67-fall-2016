@@ -74,7 +74,7 @@ Coolidge, Matthew. “Introduction.” In _Overlook: Exploring the Internal Frin
 
 Kennedy, Randy. “[How to Conserve Art That Lives in a Lake?](http://www.nytimes.com/2009/11/18/arts/design/18spiral.html)” _New York Times_, November, 17, 2009: C1.
 
-Rubio, Fernando Domínguez. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“The Material Production of the Spiral Jetty: A Study of Culture in the Making.” (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.919.1905&rep=rep1&type=pdf) In _Curatorial Sociology_ 6:143 (2012): 143–161.
+Rubio, Fernando Domínguez. [“The Material Production of the Spiral Jetty: A Study of Culture in the Making.” (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.919.1905&rep=rep1&type=pdf) In _Curatorial Sociology_ 6:143 (2012): 143–161.
 
 Landi, Ann. "[Discovering Tunnels in the Sand](https://www.wsj.com/articles/SB10001424052702303552104577440373432482052)." _The Wall Street Journal_, June 5, 2012.
 
@@ -164,7 +164,7 @@ Nisbet, James. “[A Brief Moment in the History of Photo‐Energy: Walter De Ma
 
 _Optional Car #2:_
 
-Building Technology Inc., Historic American Building Survey/Historic American Engineering Record, and National Park Service. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Historic Properties Report: White Sands Missile Range, New Mexico and Subinstallation, Utah Launch Complex, Green River, Utah.” (PDF - 7.9MB)](http://www.dtic.mil/dtic/tr/fulltext/u2/a175824.pdf) 1984.
+Building Technology Inc., Historic American Building Survey/Historic American Engineering Record, and National Park Service. ["Historic Properties Report: White Sands Missile Range, New Mexico and Subinstallation, Utah Launch Complex, Green River, Utah.” (PDF - 7.9MB)](http://www.dtic.mil/dtic/tr/fulltext/u2/a175824.pdf) 1984.
 
 
 {{< tdclose >}}
@@ -246,7 +246,7 @@ Drive to Austin
 
 Potts, Alex. "[Tactility: The Interrogation of Medium in Art of the 1960s.](http://onlinelibrary.wiley.com/doi/10.1111/j.0141-6790.2004.02702004.x/abstract)" _Art History_ 27: 282–304.
 
-Chave, Anna. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Revaluing Minimalism: Patronage, Aura and Place.” (PDF)](http://annachave.com/wp-content/uploads/2016/09/Revaluing-Minimalism.pdf) _Art Bulletin_ 90:3 (September 2008): 466–486.
+Chave, Anna. [“Revaluing Minimalism: Patronage, Aura and Place.” (PDF)](http://annachave.com/wp-content/uploads/2016/09/Revaluing-Minimalism.pdf) _Art Bulletin_ 90:3 (September 2008): 466–486.
 
 Ginsburgh, V. and A.F. Penders. "[Land Artists and Art Markets](https://link.springer.com/article/10.1023/A:1007468618570)." In _Journal of Cultural Economics_ 21 (1997): 219–228.
 

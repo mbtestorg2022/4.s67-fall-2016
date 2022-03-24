@@ -215,7 +215,7 @@ O’Doherty, Brian. “Art: \[Kaprow’s\] ‘Environment: Words’ Exploits Law
 
 McHarg, Ian L. "The Place of Nature in the City of Man" and "Ecological Determinism." In _The Essential Ian McHarg: Writings on Design and Nature_. Edited by Frederick R. Steiner. New edition edition. Island Press, 2006. ISBN: 9781597261173. \[Preview with [Google Books](https://books.google.com/books?id=NgYtcY0HOssC&lpg=PP1&dq=The%20Essential%20Ian%20McHarg%3A%20Writings%20on%20Design%20and%20Nature&pg=PA15#v=onepage&q&f=false)\]
 
-Wagstaff, Samuel. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Talking to Tony Smith." _Artforum_ 5:4 (December 1966): 14–19.
+Wagstaff, Samuel. "Talking to Tony Smith." _Artforum_ 5:4 (December 1966): 14–19.
 
 Kepes, Gyorgy. "The Artist's Role in Environmental Self-Regulation" and "The City as an Artwork." In _Arts of the Environment_. George Braziller, 1972. ISBN: 9780807606209.
 
@@ -293,11 +293,11 @@ Waldheim, Charles. "Terra Fluxus" and "Landscape as Urbanism." In _The Landscape
 
 Spirn, Anne W. "Prologue." In _The Granite Garden: Urban Nature and Human Design_. Basic Books, 1985. ISBN: 9780465027064.
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Poetics of City and Nature: Towards a New Aesthetic for Urban Design." (PDF - 5.9MB)](http://www.annewhistonspirn.com/pdf/LJ.pdf) _Landscape Journal_ 7, No. 2, (Fall 1988): 108–126.
+———. ["The Poetics of City and Nature: Towards a New Aesthetic for Urban Design." (PDF - 5.9MB)](http://www.annewhistonspirn.com/pdf/LJ.pdf) _Landscape Journal_ 7, No. 2, (Fall 1988): 108–126.
 
 ———. "Polemical Landscapes." _The Language of Landscape_. Yale University Press, 2000. ISBN: 9780300082944.
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Ecological Urbanism: A Framework for the Design of Resilient Cities." (PDF)](http://www.annewhistonspirn.com/pdf/Spirn-EcoUrbanism-2012.pdf)
+———. ["Ecological Urbanism: A Framework for the Design of Resilient Cities." (PDF)](http://www.annewhistonspirn.com/pdf/Spirn-EcoUrbanism-2012.pdf)
 
 _Recommended:_
 
@@ -351,7 +351,7 @@ Mitchell, W. J. T. "Introduction" and "Imperial Landscape." In _Landscape and Po
 
 Latour, Bruno. "Why Political Ecology Has to Let Go of Nature." In _Politics of Nature: How to Bring the Sciences into Democracy_. Translated by Catherine Porter. Harvard University Press, 2004. ISBN: 9780674013476. \[Preview with [Google Books](https://books.google.com/books?id=g-dyxR5I1dUC&lpg=PP1&dq=Politics%20of%20Nature%3A%20How%20to%20Bring%20the%20Sciences%20into%20Democracy&pg=PA9#v=onepage&q&f=false)\]
 
-Haraway, Donna. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Anthropocene, Capitalocene, Plantationocene, Chthulucene: Making Kin.” (PDF)](https://watermark.silverchair.com/159Haraway.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAArEwggKtBgkqhkiG9w0BBwagggKeMIICmgIBADCCApMGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMz-SEbrwOwnTjTrHmAgEQgIICZJu2PtwYoISvK0JWbZ8AiDI-VQ2NPQCTpB33h_VSiEfktPT568qb5VlqBfyMhG5ElxiGAfPrJ143aQxYR8PfkVDzqN4RZ7N2MfbVB4zDErH7OCnfun_Oj4Mf_4ZNMxWUhqsfjvTtMN2NQrspIDyryVGarwOoLSUm9dQoh2pZnZCmsl6tMpU7ar3RKtRVAUe9pK2R95YFgs0hnsFyDmNzsN3Y705UbpVCHcAkRqoUtLnrBGjEyb6egq5kZ0UfucqYetVEaa8k4487Wsj5qfCMVY0sBcv7h2CGNc0W2Qw6ZbAYW-Qkab1UrSMHbs4vyAl4uViy724Q3Egkw-0H0deWBXM7HRf7DkJFtWf6GhyBhZPYMrIGAsGSKOUOrBesOAPig4WYllHK8WoJY8u5quwYFFUnK0QdGEFrxs_FF9mF6hxe7SXeeETqedBY5zcgACQTptWZAr-vxqcbRxMEvRnkqWu9BRKolZaVO9UhqN9VWRoUSxX0IgRjvyQwO8O9K0w5bThM9uVV1pWBZPEatE0WB0Ylt2aI3YoMrQIg6WkwPlDzpDBUOVceA5SUFPbEBUGsL5U17OAFrG-vZEysye7mV1WEuG2AtMXMgG6Ane6kSIhJzAfuTkmezDPN0aPcbkD8XsOzAZBM2ylZAhhxG8xYhtk-BwIj1a5LJdON0fsjPRyxvzYCIHkbPmCSIGQ2qThqDs4dnhvaivhY8qPJtNAxMt47cumqV0c3UIS3PNJRA4fyRn8cCAKxTOn0FMdyFj6c5UfMRLKeDoP-ASRXVsGyYZeesYxJez_PPgCMziagQ3Q9SM5XUw) _Environmental Humanities_, vol. 6 (2015): 159–165.
+Haraway, Donna. [“Anthropocene, Capitalocene, Plantationocene, Chthulucene: Making Kin.” (PDF)](https://watermark.silverchair.com/159Haraway.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAArEwggKtBgkqhkiG9w0BBwagggKeMIICmgIBADCCApMGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMz-SEbrwOwnTjTrHmAgEQgIICZJu2PtwYoISvK0JWbZ8AiDI-VQ2NPQCTpB33h_VSiEfktPT568qb5VlqBfyMhG5ElxiGAfPrJ143aQxYR8PfkVDzqN4RZ7N2MfbVB4zDErH7OCnfun_Oj4Mf_4ZNMxWUhqsfjvTtMN2NQrspIDyryVGarwOoLSUm9dQoh2pZnZCmsl6tMpU7ar3RKtRVAUe9pK2R95YFgs0hnsFyDmNzsN3Y705UbpVCHcAkRqoUtLnrBGjEyb6egq5kZ0UfucqYetVEaa8k4487Wsj5qfCMVY0sBcv7h2CGNc0W2Qw6ZbAYW-Qkab1UrSMHbs4vyAl4uViy724Q3Egkw-0H0deWBXM7HRf7DkJFtWf6GhyBhZPYMrIGAsGSKOUOrBesOAPig4WYllHK8WoJY8u5quwYFFUnK0QdGEFrxs_FF9mF6hxe7SXeeETqedBY5zcgACQTptWZAr-vxqcbRxMEvRnkqWu9BRKolZaVO9UhqN9VWRoUSxX0IgRjvyQwO8O9K0w5bThM9uVV1pWBZPEatE0WB0Ylt2aI3YoMrQIg6WkwPlDzpDBUOVceA5SUFPbEBUGsL5U17OAFrG-vZEysye7mV1WEuG2AtMXMgG6Ane6kSIhJzAfuTkmezDPN0aPcbkD8XsOzAZBM2ylZAhhxG8xYhtk-BwIj1a5LJdON0fsjPRyxvzYCIHkbPmCSIGQ2qThqDs4dnhvaivhY8qPJtNAxMt47cumqV0c3UIS3PNJRA4fyRn8cCAKxTOn0FMdyFj6c5UfMRLKeDoP-ASRXVsGyYZeesYxJez_PPgCMziagQ3Q9SM5XUw) _Environmental Humanities_, vol. 6 (2015): 159–165.
 
 Klein, Naomi. "Love Will Save this Place: Democracy, Divestment, and the Wins So Far." In _This Changes Everything: Capitalism vs. The Climate_. Reprint edition. Simon & Schuster, 2015. ISBN: 9781451697391. \[Preview with [Google Books](https://books.google.com/books?id=kxJ5BAAAQBAJ&lpg=PP1&dq=klein%20this%20changes%20everything&pg=PA337#v=onepage&q&f=false)\]
 
