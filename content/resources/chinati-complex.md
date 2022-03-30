@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: A photo of a window located in an old wool factory inside of the Chinati
     complex.
+parent_uid: 9090fc69-c928-1870-cc73-b26dea0b96d2
 resourcetype: Image
 title: Chinati-complex.jpg
 uid: c7f5a5e6-069e-a506-480a-33621528754c

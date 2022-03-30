@@ -7,6 +7,7 @@ image_metadata:
   caption: Adobe details at the Judd Foundation.
   credit: ''
   image-alt: A photo of an adobe wall at the Judd Foundation.
+parent_uid: 9090fc69-c928-1870-cc73-b26dea0b96d2
 resourcetype: Image
 title: Judd-foundation-adobe.jpg
 uid: 596cccef-4350-569d-b99d-633354b15e66

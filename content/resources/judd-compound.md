@@ -7,6 +7,7 @@ image_metadata:
   caption: Channeling Donald Judd at the Judd compound.
   credit: ''
   image-alt: A photo of double wooden doors leading to the Donald Judd compound.
+parent_uid: 9090fc69-c928-1870-cc73-b26dea0b96d2
 resourcetype: Image
 title: Judd-compound.jpg
 uid: e73d44a1-845f-f101-b866-23e9c7ae9139

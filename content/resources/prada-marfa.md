@@ -7,6 +7,7 @@ image_metadata:
   caption: Prada Marfa (Elmgreen and Dragset, 2005)
   credit: ''
   image-alt: A photo of the art installation, Prada Marfa.
+parent_uid: 9090fc69-c928-1870-cc73-b26dea0b96d2
 resourcetype: Image
 title: Prada-Marfa.jpg
 uid: 93079099-6a99-9bc2-1c5e-b02434acef74

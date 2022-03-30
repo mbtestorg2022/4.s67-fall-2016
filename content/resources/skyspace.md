@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: A photo of a ceiling with a square opening revealing blue skies and clouds
     above.
+parent_uid: 9090fc69-c928-1870-cc73-b26dea0b96d2
 resourcetype: Image
 title: Skyspace.jpg
 uid: 0d9e64a6-dead-2a9f-85b0-ddedd95c7922

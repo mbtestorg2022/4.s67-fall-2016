@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: 'The Enola Gay "hangar," CLUI research center, and Wendover, Utah visit
     with Matthew Coolidge (CLUI). '
+parent_uid: 28aab836-07e4-0021-a34c-6b996eaa6b30
 resourcetype: Image
 title: Enola-Gay-Hangar.jpg
 uid: ad0380a7-26a8-e117-199e-8d6e5757e003

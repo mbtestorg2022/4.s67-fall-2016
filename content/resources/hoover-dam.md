@@ -8,6 +8,7 @@ image_metadata:
     \ the Hoover Dam\u2014is put in dialogue with major land art works."
   credit: ''
   image-alt: A photo of the Hoover Dam.
+parent_uid: 28aab836-07e4-0021-a34c-6b996eaa6b30
 resourcetype: Image
 title: Hoover-Dam.jpg
 uid: 162307ea-c5fb-5788-2c7e-dd4911c9ae2d
